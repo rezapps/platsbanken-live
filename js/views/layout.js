@@ -131,8 +131,8 @@ let layout = {
 
                     m( "span.col.s4.lnkryt",
                         m( "a",
-                            { href: 'https://github.com/rez433' },
-                            "@rez433"
+                            { href: 'https://github.com/rezaapps' },
+                            "@rezaapps"
                         )
                     ),
 
