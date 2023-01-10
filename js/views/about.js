@@ -6,14 +6,13 @@ const about = {
     {
         return m( "div", [
             m( "h3", "Jobify, Find your ideal jobs" ),
-            m( "m", "*** Assignment 10 from webapp course ***" ),
-            m( "p", "By Reza (rere20)" ),
-            m( "a", { href: "https://github.com/rez433" }, "Github: rez433" ),
+            m( "m", "*** Demo of platsbanken clone app ***" ),
+            m( "a", { href: "https://github.com/rezaapps" }, "Github: rezaapps" ),
             m( "br" ),
             m(
                 "p",
-                "Changing job is easier than you may think and it comes with great benefits like"
-                + "higher salary, new career posibilites and networking."
+                "Hybrid app build with Mithril js and Apache Cordova."
+                + "Platforms: web, anddroid, ios."
             ),
             m( "p", "Jobify will help you find your ideal job." ),
             m( "p", "Testomonies: " ),
