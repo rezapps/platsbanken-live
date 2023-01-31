@@ -197,6 +197,7 @@ const adsTable = {
                 );
             } );
         }
+        console.log(adsTable.ad_table);
 
         return m( "article.row", adsTable.ad_table );
     },
